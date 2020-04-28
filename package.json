@@ -1,0 +1,22 @@
+{
+  "name": "node.js-app",
+  "version": "1.0.0",
+  "description": "simple node.js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ashtonenglish3/Node.js-app.git"
+  },
+  "author": "Ashton English",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ashtonenglish3/Node.js-app/issues"
+  },
+  "homepage": "https://github.com/Ashtonenglish3/Node.js-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
